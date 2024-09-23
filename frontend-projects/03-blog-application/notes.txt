@@ -1,7 +1,0 @@
-axios
-react-toastify
-mongoose
-
-Pass: xWvk9itQShiXWCYq
-userName: celda_maester
-mongodb+srv://celda_maester:xWvk9itQShiXWCYq@blogcluster.nrbbo.mongodb.net/

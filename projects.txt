@@ -1,6 +1,6 @@
 # Beginner Projects
 
-* Personal Portfolio Website
+* Personal Portfolio Website (COMPLETED)
 Description: Build a simple personal portfolio website to showcase your projects and skills.
 Skills Learned: Basic routing, static generation, basic styling with CSS.
 
@@ -8,7 +8,7 @@ Skills Learned: Basic routing, static generation, basic styling with CSS.
 Description: Create a blog website where you can post articles.
 Skills Learned: Static site generation (SSG), Markdown integration, basic API routes.
 
-* Todo App
+* Todo App (COMPLETED)
 Description: Develop a basic todo application to manage daily tasks.
 Skills Learned: State management with React, basic CRUD operations.
 
